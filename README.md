@@ -38,7 +38,7 @@ Use the commands we've learned to move the animals to their right places. If eve
 
 ### Let's Move One File Together
 
-Notice that the `painting-elephants.jpg` image is located in `find-missing-pet < cats < indoor < back-alley`. But really, the painting elephant should go inside of `find-missing-pet < elephants < painters`. 
+Notice that the `painting-elephants.jpg` image is located in `find-missing-pet < cats < indoor < back-alley`. But really, the painting elephant should go inside of `find-missing-pet < elephants < painters`.
 
 We can move this elephant image by entering in terminal from the main directory of this project...
 
